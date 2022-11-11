@@ -35,5 +35,5 @@ If everything goes well, you should  be able to see the predcited price vaule on
 4. You can also send direct POST requests to FLask API using Python's inbuilt request module
 Run the beow command to send the request with some pre-popuated values -
 ```
-python request.py
+request.py
 ```
